@@ -28,5 +28,8 @@ This is a simple chat application built with Node.js, Express, and Socket.IO. It
    ```bash
    node app
    ```
+4. Open your web browser and visit http://localhost:3000 or http://{yourMachineIp}:3000 (replace {yourMachineIp} with the IP address of your machine) to access the chat application. This will allow you to use the application on any device within your local network.
+By following these steps, you will be able to access the chat application in your web browser and start communicating with other users in real-time. Feel free to customize and enhance the instructions based on your specific setup and requirements.
+ 
 ## Contribution
 Contributions are welcome! If you have any suggestions or feature requests, please create an submit a pull request.
